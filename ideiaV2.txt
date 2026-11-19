@@ -1,0 +1,6 @@
+#mostra o nome do projeto
+#recebe o primeiro termo
+#recebe o operador
+#recebe o segundo termo
+#realiza a operação
+#mostra o resultado
